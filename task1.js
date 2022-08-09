@@ -26,4 +26,5 @@ function whatIsEl() {
     });
 }
 whatIsEl();
+// console.log(arr);
 console.log(`even elements: ${even}, odd elements: ${odd}, null elements: ${nullEl}`);
