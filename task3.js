@@ -1,6 +1,6 @@
 //числа, которые суммируем
-let first = 2;
-let second = 80;
+const first = 2;
+const second = 3;
 //функция, которую будем передавать, как аргумент, в функцию sum
 function firstNumber(el) {
     let item = el;
