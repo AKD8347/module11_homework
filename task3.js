@@ -1,5 +1,5 @@
 //числа, которые суммируем
-let first = 22;
+let first = 12;
 let second = 81;
 //функция, которую будем передавать как аргумент в функцию sum
 function firstNumber(el) {
