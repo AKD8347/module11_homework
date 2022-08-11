@@ -28,4 +28,4 @@ const result = sum(second);
 
 // вызываем функцию result
 result();
-console.log(result())
+console.log(result());
